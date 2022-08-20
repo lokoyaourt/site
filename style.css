@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500&display=swap');
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    margin : 0;
+    
+  }
+
+p{
+    font-weight: medium;
+    font-family:'Hind Siliguri', sans-serif;
+}
